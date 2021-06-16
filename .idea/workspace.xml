@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="661a1df1-1e46-4764-bdd1-33a40510489f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tbVWoSVYk0eeQVc6gApXgi8EAJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/array_function_php/thuc_hanh/thuc_hanh2" />
+      <recent name="$PROJECT_DIR$/web_php" />
+      <recent name="$PROJECT_DIR$/bai_tap/Product_Discount_Calculator" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="thuc_hanh" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/APP.T1/thuc_hanh" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.thuc_hanh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="661a1df1-1e46-4764-bdd1-33a40510489f" name="Default Changelist" comment="" />
+      <created>1623037810406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623037810406</updated>
+      <workItem from="1623037811684" duration="168000" />
+      <workItem from="1623038019910" duration="3692000" />
+      <workItem from="1623041816068" duration="302000" />
+      <workItem from="1623052282938" duration="7013000" />
+      <workItem from="1623073419859" duration="3013000" />
+      <workItem from="1623077385618" duration="6338000" />
+      <workItem from="1623113855142" duration="13660000" />
+      <workItem from="1623140012566" duration="5389000" />
+      <workItem from="1623158296074" duration="10867000" />
+      <workItem from="1623201704423" duration="7079000" />
+      <workItem from="1623208801192" duration="2954000" />
+      <workItem from="1623227987220" duration="1928000" />
+      <workItem from="1623229975462" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="startingDirectory" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
