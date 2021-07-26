@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a8c75d3-36a2-4565-97c1-ee852142e33f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo_Json/Data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Json/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Json/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Json/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Json/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Json/product.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T1/bai_tap/Product_Discount_Calculator/display_discount.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T1/bai_tap/Product_Discount_Calculator/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T1/bai_tap/Types_of_blocks/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T1/bai_tap/bai1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T1/bai_tap/bai2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T1/bai_tap/bai4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T1/bai_tap/isNumber.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T1/bai_tap/isPrime.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T1/bai_tap/money.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T1/practice/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T1/practice/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T1/practice/index3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T1/practice/index4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T11/bai_tap/bai_1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T11/bai_tap/bai_2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T11/bai_tap/bai_3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T11/thuc_hanh.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T12/bai_1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T12/bai_2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T12/bai_3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T13/demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T2/practice/thuc_hanh3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T8/practice/Linked_List_simple/LinhkList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T8/practice/Linked_List_simple/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T8/practice/Linked_List_simple/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T8/practice/list_simple/ArrayList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T8/practice/list_simple/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T9/demo_queue/Element.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T9/demo_queue/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T9/demo_queue/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T9/demo_stack/ReadingList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T9/demo_stack/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T9/demo_tree/BinaryNode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T9/demo_tree/BinaryTree.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_T9/demo_tree/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/bai_tap/calculate.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T2/bai_tap/calculate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/bai_tap/count_array.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T2/bai_tap/count_array.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/bai_tap/erase_array.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T2/bai_tap/erase_array.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/bai_tap/find_max.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T2/bai_tap/find_max.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/bai_tap/find_min.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T2/bai_tap/find_min.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/bai_tap/json/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T2/bai_tap/json/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/bai_tap/json/json.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T2/bai_tap/json/json.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/bai_tap/merge_array.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T2/bai_tap/merge_array.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/bai_tap/min_array.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T2/bai_tap/min_array.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/practice/thuc_hanh1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T2/practice/thuc_hanh1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/practice/thuc_hanh2/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T2/practice/thuc_hanh2/content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/practice/thuc_hanh2/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T2/practice/thuc_hanh2/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/practice/thuc_hanh2/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T2/practice/thuc_hanh2/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/practice/thuc_hanh2/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T2/practice/thuc_hanh2/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/practice/thuc_hanh2/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T2/practice/thuc_hanh2/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/practice/thuc_hanh2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T2/practice/thuc_hanh2/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T2/practice/thuc_hanh3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T3/bai_tap/Quadratic_Equation/QuadraticEquation.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T3/bai_tap/Quadratic_Equation/QuadraticEquation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T3/bai_tap/Quadratic_Equation/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T3/bai_tap/Quadratic_Equation/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T3/bai_tap/fan/Fan.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T3/bai_tap/fan/Fan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T3/bai_tap/fan/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T3/bai_tap/fan/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T3/bai_tap/stop_watch/StopWatch.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T3/bai_tap/stop_watch/StopWatch.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T3/bai_tap/stop_watch/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T3/bai_tap/stop_watch/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T3/practice/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T3/practice/Rectangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T3/practice/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T3/practice/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T4/bai_tap/class_user/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T4/bai_tap/class_user/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T4/bai_tap/class_user/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T4/bai_tap/class_user/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T4/practice/product-management/Mondels/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T4/practice/product-management/Mondels/Product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T4/practice/product-management/Services/ProductManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T4/practice/product-management/Services/ProductManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T4/practice/product-management/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T4/practice/product-management/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T4/practice/thuc_hanh1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T4/practice/thuc_hanh1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T4/practice/thuc_hanh2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T4/practice/thuc_hanh2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T5/bai_tap/circle_cylinder/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T5/bai_tap/circle_cylinder/Circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T5/bai_tap/circle_cylinder/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T5/bai_tap/circle_cylinder/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T5/bai_tap/circle_cylinder/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T5/bai_tap/circle_cylinder/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T5/bai_tap/point/MoveablePoint.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T5/bai_tap/point/MoveablePoint.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T5/bai_tap/point/Point.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T5/bai_tap/point/Point.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T5/bai_tap/point/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T5/bai_tap/point/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T5/bai_tap/point2D_point3D/Point2d.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T5/bai_tap/point2D_point3D/Point2d.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T5/bai_tap/point2D_point3D/Point3d.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T5/bai_tap/point2D_point3D/Point3d.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T5/bai_tap/point2D_point3D/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T5/bai_tap/point2D_point3D/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T5/practice/geometriy_object/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T5/practice/geometriy_object/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T5/practice/geometriy_object/shape.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T5/practice/geometriy_object/shape.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/bai_tap/Resizeable/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/bai_tap/Resizeable/Circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/bai_tap/Resizeable/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/bai_tap/Resizeable/Rectangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/bai_tap/Resizeable/Resizeable.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/bai_tap/Resizeable/Resizeable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/bai_tap/Resizeable/Spuare.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/bai_tap/Resizeable/Spuare.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/bai_tap/Resizeable/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/bai_tap/Resizeable/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/bai_tap/colorable/Colorable.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/bai_tap/colorable/Colorable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/bai_tap/colorable/Square.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/bai_tap/colorable/Square.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/practice/Animal_interface/Animal.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/practice/Animal_interface/Animal.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/practice/Animal_interface/Apple.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/practice/Animal_interface/Apple.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/practice/Animal_interface/Chicken.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/practice/Animal_interface/Chicken.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/practice/Animal_interface/Edible.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/practice/Animal_interface/Edible.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/practice/Animal_interface/Fruit.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/practice/Animal_interface/Fruit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/practice/Animal_interface/Orange.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/practice/Animal_interface/Orange.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/practice/Animal_interface/Tiger.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/practice/Animal_interface/Tiger.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/practice/Animal_interface/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/practice/Animal_interface/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/practice/interface_comparable/CircleComparator.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/practice/interface_comparable/CircleComparator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/practice/interface_comparable/Circles.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/practice/interface_comparable/Circles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/practice/interface_comparable/Comparable.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/practice/interface_comparable/Comparable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/practice/interface_comparable/ComparableCircle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/practice/interface_comparable/ComparableCircle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/practice/interface_comparable/Comparator.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/practice/interface_comparable/Comparator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T6/practice/interface_comparable/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T6/practice/interface_comparable/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T7/practice/FizzBuzz/FizzBuzz.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T7/practice/FizzBuzz/FizzBuzz.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T7/practice/FizzBuzz/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T7/practice/FizzBuzz/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T7/practice/refactoring/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T7/practice/refactoring/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APP.T7/practice/refactoring/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_T7/practice/refactoring/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ufudk32QS5apNDEy8OEutsrchu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a8c75d3-36a2-4565-97c1-ee852142e33f" name="Default Changelist" comment="" />
+      <created>1625069053682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625069053682</updated>
+      <workItem from="1625069055032" duration="1151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
